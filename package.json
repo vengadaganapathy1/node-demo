@@ -1,0 +1,15 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "Learning node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ganapathy",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.3.3",
+    "underscore": "^1.13.6"
+  }
+}
