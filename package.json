@@ -9,7 +9,14 @@
   "author": "Ganapathy",
   "license": "ISC",
   "dependencies": {
+    "config": "^3.3.11",
+    "debug": "^4.3.4",
+    "express": "^4.19.2",
+    "helmet": "^7.1.0",
+    "joi": "^17.13.1",
     "mongoose": "^8.3.3",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.2",
     "underscore": "^1.13.6"
   }
 }
